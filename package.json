@@ -1,0 +1,31 @@
+{
+  "name": "gdl004-movie-challenge",
+  "version": "1.0.0",
+  "description": "## Preámbulo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonseSalasVi/GDL004-movie-challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonseSalasVi/GDL004-movie-challenge/issues"
+  },
+  "homepage": "https://github.com/MonseSalasVi/GDL004-movie-challenge#readme",
+  "dependencies": {
+    "editorconfig": "^0.15.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
+    "eslint": "^6.8.0",
+    "serve": "^11.0.2"
+  }
+}
