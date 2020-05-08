@@ -1,6 +1,6 @@
 # MOVIE APP 🍿
 
-_Find the best movies at maximum spped._
+_Find the best movies at maximum speed._
 
 #### Index
 
